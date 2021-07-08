@@ -3,3 +3,4 @@ app/out*
 app/*.txt
 app/*.db
 **venv/
+.DS_Store
